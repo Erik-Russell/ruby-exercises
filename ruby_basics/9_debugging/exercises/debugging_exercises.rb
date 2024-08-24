@@ -64,4 +64,5 @@ def yell_greeting(string)
   # binding.pry
 
   greeting = "WASSAP, #{name}!"
+  p greeting
 end
